@@ -175,6 +175,9 @@
   .code-example p {
     margin-left: 45px;
   }
+  .myprojects p{
+padding-left: 50px;
+  }
   pre {
      padding-left: 30px;
        font-size: 1rem;
